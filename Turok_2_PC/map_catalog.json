@@ -1,0 +1,699 @@
+{
+  "maps": {
+    "0": {
+      "index": 0,
+      "name": "STARTMAP(don'tDelete)"
+    },
+    "1": {
+      "index": 1,
+      "name": "Blind One Boss"
+    },
+    "2": {
+      "index": 2,
+      "name": "Queen Boss"
+    },
+    "3": {
+      "index": 3,
+      "name": "Mother Boss"
+    },
+    "4": {
+      "index": 4,
+      "name": "Primagen Boss"
+    },
+    "5": {
+      "index": 5,
+      "name": "cin-pri-harbor"
+    },
+    "6": {
+      "index": 6,
+      "name": "cin-pri-marsh"
+    },
+    "7": {
+      "index": 7,
+      "name": "cin-pri-cave"
+    },
+    "8": {
+      "index": 8,
+      "name": "cin-pri-hive"
+    },
+    "9": {
+      "index": 9,
+      "name": "cin-pri-city"
+    },
+    "10": {
+      "index": 10,
+      "name": "cinema END 1a,2,credits"
+    },
+    "11": {
+      "index": 11,
+      "name": "cinema END 1b"
+    },
+    "12": {
+      "index": 12,
+      "name": "cinema 3 A"
+    },
+    "13": {
+      "index": 13,
+      "name": "cinema 3 C"
+    },
+    "14": {
+      "index": 14,
+      "name": "cinema 3 D"
+    },
+    "15": {
+      "index": 15,
+      "name": "cinema 3 F"
+    },
+    "16": {
+      "index": 16,
+      "name": "cinema 3 J"
+    },
+    "17": {
+      "index": 17,
+      "name": "cinema 3 totem"
+    },
+    "18": {
+      "index": 18,
+      "name": "cinema 4 A"
+    },
+    "19": {
+      "index": 19,
+      "name": "cinema 4 B"
+    },
+    "20": {
+      "index": 20,
+      "name": "cinema 4 D"
+    },
+    "21": {
+      "index": 21,
+      "name": "cinema 4 G"
+    },
+    "22": {
+      "index": 22,
+      "name": "cinema 4 H"
+    },
+    "23": {
+      "index": 23,
+      "name": "cinema 4 K"
+    },
+    "24": {
+      "index": 24,
+      "name": "cinema 4 totem"
+    },
+    "25": {
+      "index": 25,
+      "name": "cinema 5 A"
+    },
+    "26": {
+      "index": 26,
+      "name": "cinema 5 B"
+    },
+    "27": {
+      "index": 27,
+      "name": "cinema 5 E"
+    },
+    "28": {
+      "index": 28,
+      "name": "cinema 5 F"
+    },
+    "29": {
+      "index": 29,
+      "name": "cinema 5 I"
+    },
+    "30": {
+      "index": 30,
+      "name": "cinema 5 J"
+    },
+    "31": {
+      "index": 31,
+      "name": "cinema 5 top"
+    },
+    "32": {
+      "index": 32,
+      "name": "cinema 5 totem"
+    },
+    "33": {
+      "index": 33,
+      "name": "cinema 2 A"
+    },
+    "34": {
+      "index": 34,
+      "name": "cinema 2 dinosoid"
+    },
+    "35": {
+      "index": 35,
+      "name": "cinema 2 totem"
+    },
+    "36": {
+      "index": 36,
+      "name": "cinema 2 grave"
+    },
+    "37": {
+      "index": 37,
+      "name": "cinema Oblivion1a(1)"
+    },
+    "38": {
+      "index": 38,
+      "name": "cinemaOblivion1b(2)"
+    },
+    "39": {
+      "index": 39,
+      "name": "cinemaOblivion1c(5)"
+    },
+    "40": {
+      "index": 40,
+      "name": "cinemaOblivion2(6)"
+    },
+    "41": {
+      "index": 41,
+      "name": "cinema ADONBLIVION1"
+    },
+    "42": {
+      "index": 42,
+      "name": "cinema ADONBLIVION2"
+    },
+    "43": {
+      "index": 43,
+      "name": "cinema hubportal"
+    },
+    "44": {
+      "index": 44,
+      "name": "(0) IGGY"
+    },
+    "45": {
+      "index": 45,
+      "name": "(1) cin1 A"
+    },
+    "46": {
+      "index": 46,
+      "name": "(2) cin1 B"
+    },
+    "47": {
+      "index": 47,
+      "name": "(3) cin1 C"
+    },
+    "48": {
+      "index": 48,
+      "name": "(4) cin1 D"
+    },
+    "49": {
+      "index": 49,
+      "name": "(5) cin totem"
+    },
+    "50": {
+      "index": 50,
+      "name": "(6) cin adon"
+    },
+    "51": {
+      "index": 51,
+      "name": "Port of Adia 1"
+    },
+    "52": {
+      "index": 52,
+      "name": "Port of Adia 2"
+    },
+    "53": {
+      "index": 53,
+      "name": "Port of Adia 3"
+    },
+    "54": {
+      "index": 54,
+      "name": "Port of Adia 4"
+    },
+    "55": {
+      "index": 55,
+      "name": "Port of Adia 5"
+    },
+    "56": {
+      "index": 56,
+      "name": "Port of Adia 6"
+    },
+    "57": {
+      "index": 57,
+      "name": "Port of Adia 7"
+    },
+    "58": {
+      "index": 58,
+      "name": "Port of Adia 8"
+    },
+    "59": {
+      "index": 59,
+      "name": "Port of Adia 9"
+    },
+    "60": {
+      "index": 60,
+      "name": "HUB"
+    },
+    "61": {
+      "index": 61,
+      "name": "Death Marsh 1"
+    },
+    "62": {
+      "index": 62,
+      "name": "Death Marsh 2"
+    },
+    "63": {
+      "index": 63,
+      "name": "Death Marsh 3"
+    },
+    "64": {
+      "index": 64,
+      "name": "Death Marsh 4"
+    },
+    "65": {
+      "index": 65,
+      "name": "Death Marsh 5"
+    },
+    "66": {
+      "index": 66,
+      "name": "Death Marsh 6"
+    },
+    "67": {
+      "index": 67,
+      "name": "Death Marsh 7"
+    },
+    "68": {
+      "index": 68,
+      "name": "Death Marsh 8"
+    },
+    "69": {
+      "index": 69,
+      "name": "Death Marsh 9"
+    },
+    "70": {
+      "index": 70,
+      "name": "Death Marsh 10"
+    },
+    "71": {
+      "index": 71,
+      "name": "Death Marsh 11"
+    },
+    "72": {
+      "index": 72,
+      "name": "Port Talisman"
+    },
+    "73": {
+      "index": 73,
+      "name": "River Talisman"
+    },
+    "74": {
+      "index": 74,
+      "name": "Marsh Talisman"
+    },
+    "75": {
+      "index": 75,
+      "name": "Blind Talisman"
+    },
+    "76": {
+      "index": 76,
+      "name": "Hive Talisman"
+    },
+    "77": {
+      "index": 77,
+      "name": "Light Talisman"
+    },
+    "78": {
+      "index": 78,
+      "name": "Port Oblivion"
+    },
+    "79": {
+      "index": 79,
+      "name": "River Oblivion"
+    },
+    "80": {
+      "index": 80,
+      "name": "Marsh Oblivion"
+    },
+    "81": {
+      "index": 81,
+      "name": "Blind Oblivion"
+    },
+    "82": {
+      "index": 82,
+      "name": "Hive Oblivion"
+    },
+    "83": {
+      "index": 83,
+      "name": "Light Oblivion"
+    },
+    "84": {
+      "index": 84,
+      "name": "Hive 1"
+    },
+    "85": {
+      "index": 85,
+      "name": "Hive 2"
+    },
+    "86": {
+      "index": 86,
+      "name": "Hive 3"
+    },
+    "87": {
+      "index": 87,
+      "name": "Hive 4"
+    },
+    "88": {
+      "index": 88,
+      "name": "Hive 5"
+    },
+    "89": {
+      "index": 89,
+      "name": "Hive 6"
+    },
+    "90": {
+      "index": 90,
+      "name": "Hive 7"
+    },
+    "91": {
+      "index": 91,
+      "name": "Hive 8"
+    },
+    "92": {
+      "index": 92,
+      "name": "Hive Talisman"
+    },
+    "93": {
+      "index": 93,
+      "name": "Hive 9"
+    },
+    "94": {
+      "index": 94,
+      "name": "Hive 10"
+    },
+    "95": {
+      "index": 95,
+      "name": "Hive 11"
+    },
+    "96": {
+      "index": 96,
+      "name": "Hive 12"
+    },
+    "97": {
+      "index": 97,
+      "name": "Adon SavePortal"
+    },
+    "98": {
+      "index": 98,
+      "name": "Blind Lair 1"
+    },
+    "99": {
+      "index": 99,
+      "name": "Blind Lair 2"
+    },
+    "100": {
+      "index": 100,
+      "name": "Blind Lair 3"
+    },
+    "101": {
+      "index": 101,
+      "name": "Blind Lair 4"
+    },
+    "102": {
+      "index": 102,
+      "name": "Blind Lair 5"
+    },
+    "103": {
+      "index": 103,
+      "name": "Blind Lair 6"
+    },
+    "104": {
+      "index": 104,
+      "name": "Blind Lair 7"
+    },
+    "105": {
+      "index": 105,
+      "name": "Blind Lair 8"
+    },
+    "106": {
+      "index": 106,
+      "name": "Blind Lair 9"
+    },
+    "107": {
+      "index": 107,
+      "name": "Blind Lair 10"
+    },
+    "108": {
+      "index": 108,
+      "name": "Blind Lair 11"
+    },
+    "109": {
+      "index": 109,
+      "name": "Port Totem"
+    },
+    "110": {
+      "index": 110,
+      "name": "River Totem"
+    },
+    "111": {
+      "index": 111,
+      "name": "Marsh Totem"
+    },
+    "112": {
+      "index": 112,
+      "name": "Blind Totem"
+    },
+    "113": {
+      "index": 113,
+      "name": "Hive Totem"
+    },
+    "114": {
+      "index": 114,
+      "name": "Lightship 1"
+    },
+    "115": {
+      "index": 115,
+      "name": "Lightship 2"
+    },
+    "116": {
+      "index": 116,
+      "name": "Lightship 3"
+    },
+    "117": {
+      "index": 117,
+      "name": "Lightship 4"
+    },
+    "118": {
+      "index": 118,
+      "name": "Lightship 5"
+    },
+    "119": {
+      "index": 119,
+      "name": "Lightship 6"
+    },
+    "120": {
+      "index": 120,
+      "name": "Lightship 7"
+    },
+    "121": {
+      "index": 121,
+      "name": "Lightship 8"
+    },
+    "122": {
+      "index": 122,
+      "name": "Lightship 9"
+    },
+    "123": {
+      "index": 123,
+      "name": "Lightship 10"
+    },
+    "124": {
+      "index": 124,
+      "name": "HIVE TOP"
+    },
+    "125": {
+      "index": 125,
+      "name": "RiverOfSouls 1"
+    },
+    "126": {
+      "index": 126,
+      "name": "RiverOfSouls 2"
+    },
+    "127": {
+      "index": 127,
+      "name": "RiverOfSouls 3"
+    },
+    "128": {
+      "index": 128,
+      "name": "RiverOfSouls 4"
+    },
+    "129": {
+      "index": 129,
+      "name": "RiverOfSouls 5"
+    },
+    "130": {
+      "index": 130,
+      "name": "RiverOfSouls 6"
+    },
+    "131": {
+      "index": 131,
+      "name": "RiverOfSouls 7"
+    },
+    "132": {
+      "index": 132,
+      "name": "RiverOfSouls 8"
+    },
+    "133": {
+      "index": 133,
+      "name": "RiverOfSouls 9"
+    },
+    "134": {
+      "index": 134,
+      "name": "RiverOfSouls 10"
+    },
+    "135": {
+      "index": 135,
+      "name": "RiverOfSouls 11"
+    },
+    "136": {
+      "index": 136,
+      "name": "cinema 6 B"
+    },
+    "137": {
+      "index": 137,
+      "name": "cinema 6 C"
+    },
+    "138": {
+      "index": 138,
+      "name": "cinema 6 E"
+    },
+    "139": {
+      "index": 139,
+      "name": "cinema 6 G"
+    },
+    "140": {
+      "index": 140,
+      "name": "cinema 6 H"
+    },
+    "141": {
+      "index": 141,
+      "name": "cinema 6 I"
+    },
+    "142": {
+      "index": 142,
+      "name": "cinema 6 J"
+    },
+    "143": {
+      "index": 143,
+      "name": "Acclaim logo"
+    },
+    "144": {
+      "index": 144,
+      "name": "ingame deaths"
+    },
+    "145": {
+      "index": 145,
+      "name": "Regeneration"
+    }
+  },
+  "aliases": {
+    "blind": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "blind_boss": [
+      1
+    ],
+    "river": [
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "hive": [
+      76,
+      82,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      113
+    ],
+    "marsh": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "port": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "hub": [
+      60
+    ],
+    "lightship": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ]
+  },
+  "notes": {
+    "spawn_sector_field": "Section 8 position record dword[4] low-u16 often matches map index",
+    "mp_characters_in_sp_lss": false,
+    "mp_characters": [
+      "Turok",
+      "Adon",
+      "Gant",
+      "Flesh Eater",
+      "Purr Lin",
+      "End Trail",
+      "Fireborn",
+      "Iggy",
+      "Campaigner",
+      "Telset",
+      "Raptor"
+    ],
+    "requested_beta": {
+      "Fireborn": "MP playable \u2014 not in SP LSS models/strings",
+      "Raptor": "MP playable \u2014 not in SP LSS",
+      "Drone": "not found as string; may be SP enemy alias",
+      "Mantis": "not found; Hive Mantids are SP enemies (tag groups TBD)"
+    }
+  }
+}
