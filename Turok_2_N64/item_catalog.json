@@ -1,0 +1,474 @@
+{
+  "source": "Turok2MP.exe item/UI string tables",
+  "confirmed_ui_ids": {
+    "full health": 340,
+    "ultra health": 341,
+    "invincibility": 334,
+    "plane walker": 333,
+    "flashlight": 335,
+    "eagle feather (shared)": 336
+  },
+  "health_items": [
+    "2 health",
+    "10 health",
+    "25 health",
+    "50 health",
+    "full health",
+    "ultra health",
+    "1 life force",
+    "10 life force"
+  ],
+  "weapons": [
+    "talon",
+    "war blade",
+    "bow",
+    "tek bow",
+    "pistol",
+    "mag 60",
+    "tranquilizer gun",
+    "charge dart rifle",
+    "shotgun",
+    "shredder",
+    "plasma rifle",
+    "firestorm cannon",
+    "sunfire pod",
+    "sunfire pod launcher",
+    "cerebral bore",
+    "p.f.m. layer",
+    "grenade launcher",
+    "scorpion launcher",
+    "harpoon gun",
+    "torpedo launcher",
+    "riding gun",
+    "flying gun",
+    "flame thrower",
+    "razor wind",
+    "nuke",
+    "flare",
+    "crossbow",
+    "charge dart rifle",
+    "firestorm cannon",
+    "assault rifle",
+    "plasma rifle",
+    "cerebral bore",
+    "grenade launcher",
+    "scorpion launcher",
+    "harpoon gun",
+    "torpedo launcher",
+    "raptor claw",
+    "arrow",
+    "tek arrow",
+    "5 arrows"
+  ],
+  "ammo": [
+    "arrow",
+    "tek arrow",
+    "5 arrows",
+    "quiver of 10 arrows",
+    "3 tek arrows",
+    "quiver of 5 tek arrows",
+    "10 pistol bullets (clip)",
+    "5 magnum rounds (clip)",
+    "box of 40 bullets",
+    "1 tranq dart",
+    "5 tranq darts (pak)",
+    "5 charge darts",
+    "20 charge darts (pak)",
+    "3 shotgun shells",
+    "box of 10 shotgun shells",
+    "3 explosive shotgun shells",
+    "30 plasma rounds",
+    "150 plasma rounds (pak)",
+    "3 sunfire pods",
+    "2 bores",
+    "1 pfm",
+    "1 grenade",
+    "5 grenades (box)",
+    "4 scorpion missiles",
+    "1 spear",
+    "3 spears",
+    "1 torpedo",
+    "20 .20mm rounds",
+    "3 explosive rounds",
+    "3 scatter rounds",
+    "flame thrower tank",
+    "2 nukes",
+    "charge darts",
+    "shredder shells",
+    "plasma cells",
+    "cerebral bore",
+    "grenades",
+    "missiles",
+    "harpoons",
+    "torpedo"
+  ],
+  "quest": [
+    "level key",
+    "satchel charge",
+    "level 1 key",
+    "level 2 key",
+    "level 3 key",
+    "level 4 key",
+    "level 5 key",
+    "level 6 key",
+    "primagen key 1",
+    "primagen key 2",
+    "primagen key 3",
+    "primagen key 4",
+    "primagen key 5",
+    "primagen key 6",
+    "gate key",
+    "graveyard key",
+    "cave door key",
+    "nuke weapon part",
+    "blue eagle feather",
+    "grey eagle feather",
+    "brown eagle feather",
+    "purple eagle feather",
+    "red eagle feather"
+  ],
+  "table_entries_sample": [
+    {
+      "name": "save game",
+      "table_off": "0x11301c",
+      "nearby": [
+        "0x47a5f0",
+        "0x0",
+        "0x47ff30"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "load game",
+      "table_off": "0x113040",
+      "nearby": [
+        "0x47a5f0",
+        "0x0",
+        "0x47ff50"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "quit game",
+      "table_off": "0x113064",
+      "nearby": [
+        "0x47a5f0",
+        "0x0",
+        "0x47fef0"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "exit to windows",
+      "table_off": "0x113088",
+      "nearby": [
+        "0x47a5f0",
+        "0x0",
+        "0x47ff10"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "war blade",
+      "table_off": "0x1130d8",
+      "nearby": [
+        "0x138807d1",
+        "0x136",
+        "0xffff0001"
+      ],
+      "tid_candidates": [
+        310
+      ]
+    },
+    {
+      "name": "bow",
+      "table_off": "0x1130f0",
+      "nearby": [
+        "0x138807d3",
+        "0x0",
+        "0x2"
+      ],
+      "tid_candidates": [
+        2
+      ]
+    },
+    {
+      "name": "tek bow",
+      "table_off": "0x113108",
+      "nearby": [
+        "0x138807d2",
+        "0x137",
+        "0x10003"
+      ],
+      "tid_candidates": [
+        311
+      ]
+    },
+    {
+      "name": "pistol",
+      "table_off": "0x113120",
+      "nearby": [
+        "0x138807d4",
+        "0x138",
+        "0x20004"
+      ],
+      "tid_candidates": [
+        312
+      ]
+    },
+    {
+      "name": "mag 60",
+      "table_off": "0x113138",
+      "nearby": [
+        "0x138807d5",
+        "0x139",
+        "0x20005"
+      ],
+      "tid_candidates": [
+        313
+      ]
+    },
+    {
+      "name": "tranquilizer gun",
+      "table_off": "0x113150",
+      "nearby": [
+        "0x138807d6",
+        "0x13c",
+        "0x40006"
+      ],
+      "tid_candidates": [
+        316
+      ]
+    },
+    {
+      "name": "charge dart rifle",
+      "table_off": "0x113168",
+      "nearby": [
+        "0x138807d7",
+        "0x13d",
+        "0x50007"
+      ],
+      "tid_candidates": [
+        317
+      ]
+    },
+    {
+      "name": "shotgun",
+      "table_off": "0x113180",
+      "nearby": [
+        "0x138807d8",
+        "0x13a",
+        "0x60008"
+      ],
+      "tid_candidates": [
+        314
+      ]
+    },
+    {
+      "name": "shredder",
+      "table_off": "0x113198",
+      "nearby": [
+        "0x138807d9",
+        "0x13b",
+        "0x60009"
+      ],
+      "tid_candidates": [
+        315
+      ]
+    },
+    {
+      "name": "plasma rifle",
+      "table_off": "0x1131b0",
+      "nearby": [
+        "0x138807da",
+        "0x13e",
+        "0x9000a"
+      ],
+      "tid_candidates": [
+        318
+      ]
+    },
+    {
+      "name": "firestorm cannon",
+      "table_off": "0x1131c8",
+      "nearby": [
+        "0x138807db",
+        "0x13f",
+        "0x9000b"
+      ],
+      "tid_candidates": [
+        319
+      ]
+    },
+    {
+      "name": "sunfire pod",
+      "table_off": "0x1131e0",
+      "nearby": [
+        "0x138807dc",
+        "0x14a",
+        "0xa000c"
+      ],
+      "tid_candidates": [
+        330
+      ]
+    },
+    {
+      "name": "cerebral bore",
+      "table_off": "0x1131f8",
+      "nearby": [
+        "0x138807de",
+        "0x142",
+        "0xb000d"
+      ],
+      "tid_candidates": [
+        322
+      ]
+    },
+    {
+      "name": "p.f.m. layer",
+      "table_off": "0x113210",
+      "nearby": [
+        "0x138807df",
+        "0x140",
+        "0xc000e"
+      ],
+      "tid_candidates": [
+        320
+      ]
+    },
+    {
+      "name": "grenade launcher",
+      "table_off": "0x113228",
+      "nearby": [
+        "0x138807e0",
+        "0x141",
+        "0xd000f"
+      ],
+      "tid_candidates": [
+        321
+      ]
+    },
+    {
+      "name": "scorpion launcher",
+      "table_off": "0x113240",
+      "nearby": [
+        "0x138807e1",
+        "0x14c",
+        "0xe0010"
+      ],
+      "tid_candidates": [
+        332
+      ]
+    },
+    {
+      "name": "harpoon gun",
+      "table_off": "0x113258",
+      "nearby": [
+        "0x13880834",
+        "0x146",
+        "0xf0011"
+      ],
+      "tid_candidates": [
+        326
+      ]
+    },
+    {
+      "name": "torpedo launcher",
+      "table_off": "0x113270",
+      "nearby": [
+        "0x13880835",
+        "0x147",
+        "0x100012"
+      ],
+      "tid_candidates": [
+        327
+      ]
+    },
+    {
+      "name": "flame thrower",
+      "table_off": "0x113288",
+      "nearby": [
+        "0x1388083e",
+        "0x143",
+        "0x140014"
+      ],
+      "tid_candidates": [
+        323
+      ]
+    },
+    {
+      "name": "razor wind",
+      "table_off": "0x1132a0",
+      "nearby": [
+        "0x1388083f",
+        "0x144",
+        "0xffff0015"
+      ],
+      "tid_candidates": [
+        324
+      ]
+    },
+    {
+      "name": "nuke",
+      "table_off": "0x1132b8",
+      "nearby": [
+        "0x13880840",
+        "0x145",
+        "0x160016"
+      ],
+      "tid_candidates": [
+        325
+      ]
+    },
+    {
+      "name": "crossbow",
+      "table_off": "0x1132d0",
+      "nearby": [
+        "0x13880841",
+        "0xffff",
+        "0xffff0018"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "charge dart rifle",
+      "table_off": "0x1132e8",
+      "nearby": [
+        "0x13880842",
+        "0xffff",
+        "0x180019"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "assault rifle",
+      "table_off": "0x113300",
+      "nearby": [
+        "0x13880844",
+        "0xffff",
+        "0x19001a"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "firestorm cannon",
+      "table_off": "0x113318",
+      "nearby": [
+        "0x13880843",
+        "0xffff",
+        "0x1a001c"
+      ],
+      "tid_candidates": []
+    },
+    {
+      "name": "plasma rifle",
+      "table_off": "0x113330",
+      "nearby": [
+        "0x13880845",
+        "0xffff",
+        "0x1a001b"
+      ],
+      "tid_candidates": []
+    }
+  ]
+}

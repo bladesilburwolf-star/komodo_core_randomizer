@@ -1,0 +1,29 @@
+{
+  "source": "InterleavingPackerUnpacker Weapon_IDs + Seeds of Evil.lss section 0 model indices",
+  "note": "These are model subblock indices in section 0. Weapon pickups reference these IDs.",
+  "weapons": {
+    "2394": "Bore",
+    "2395": "ChargeDart",
+    "2396": "Firestorm",
+    "2397": "FlameThrower",
+    "2398": "FlareGun",
+    "2399": "GrenadeLauncher",
+    "2400": "Mag60",
+    "2412": "Bow",
+    "2413": "Nuke",
+    "2414": "PFM",
+    "2415": "Pistol",
+    "2416": "PlasmaRifle",
+    "2418": "Scorpion",
+    "2419": "Shotgun",
+    "2420": "Shredder",
+    "2421": "Sunfire",
+    "2422": "RazorWind",
+    "2423": "Talon",
+    "2424": "TekBow",
+    "2425": "Tranq",
+    "2426": "Harpoon",
+    "2427": "Torpedo",
+    "2428": "WarBlade"
+  }
+}
