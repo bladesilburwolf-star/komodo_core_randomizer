@@ -1,0 +1,27 @@
+{
+  "module": "Turok2MP.exe",
+  "va_bitfield": "0x5D5A60",
+  "va_secondary": "0x5D5A64",
+  "bits": {
+    "0x0002": "invincibility",
+    "0x0004": "infinite_lives",
+    "0x0008": "all_weapons",
+    "0x0010": "unlimited_ammo",
+    "0x0020": "all_special_objects",
+    "0x0040": "big_head",
+    "0x0080": "tiny",
+    "0x0100": "stick",
+    "0x0400": "big_hands_feet",
+    "0x0800": "gouraud",
+    "0x1000": "juans_cheat",
+    "0x2000": "zach_attack",
+    "0x4000": "all_map",
+    "0x8000": "blackout"
+  },
+  "presets": {
+    "scale_chaos": ["0x0040", "0x0080", "0x0100", "0x0400"],
+    "blackout_boss": ["0x8000", "0x0040"],
+    "player_power": ["0x0002", "0x0008", "0x0010"],
+    "full_toybox": ["0x0002", "0x0004", "0x0008", "0x0010", "0x0020", "0x0040", "0x0080", "0x0100", "0x0400", "0x0800", "0x1000", "0x2000", "0x4000", "0x8000"]
+  }
+}
